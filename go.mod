@@ -1,4 +1,4 @@
-module github.com/AllBeisKaia/sso_test_protos
+module github.com/AllBeisKaia/protos
 
 go 1.24.2
 
